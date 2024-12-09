@@ -1,4 +1,3 @@
-# Install-Kubernetes
 Install Required Packages
 On all nodes (Master and Worker):
 
